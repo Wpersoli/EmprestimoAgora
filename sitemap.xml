@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://emprestimo-agora.vercel.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/emprestimo-pessoal-online.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/dinheiro-urgente.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/como-funciona-facio.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/custo-efetivo-total.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/emprestimo-para-negativado.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/golpe-do-emprestimo.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/guias-de-credito.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/sobre.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/politica-de-privacidade.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://emprestimo-agora.vercel.app/aviso-legal.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/</loc><lastmod>2026-11-11</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/emprestimo-pessoal-online.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/dinheiro-urgente.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/como-funciona-facio.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/custo-efetivo-total.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/emprestimo-para-negativado.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/golpe-do-emprestimo.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/guias-de-credito.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/emprestimo-online-seguro.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/antecipacao-fgts.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/sobre.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/politica-de-privacidade.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://emprestimo-agora.vercel.app/aviso-legal.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.3</priority></url>
 </urlset>
