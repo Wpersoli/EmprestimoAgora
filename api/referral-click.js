@@ -21,7 +21,7 @@ module.exports = (req, res) => {
     event: "partner_referral_click",
     partner: body.partner,
     page: cleanPath(body.page),
-    placement: body.placement === "article-content" ? "article-content" : body.placement === "partner-card" ? "partner-card" : "other",
+    placement: body.placement === "article-content" ? "article-content" : body.placement === "partner-card" ? "partner-card" : body.placement === "chat-assistant" ? "chat-assistant" : "other",
     timestamp: new Date().toISOString()
   };
   // Event is emitted to Vercel Function logs; no IP, email, CPF, or query string is collected.
