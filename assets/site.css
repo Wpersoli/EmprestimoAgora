@@ -76,7 +76,7 @@
 .ea-chat-form input{min-width:0;flex:1;border:1px solid #ccd8e8;border-radius:9px;padding:11px;font-size:13px;color:#17345d}
 .ea-chat-form button{border:0;border-radius:9px;background:#08a84f;color:#fff;font-weight:800;padding:0 13px;cursor:pointer}
 .ea-chat-disclaimer{margin:0;padding:0 12px 10px;background:#fff;color:#78879b;font-size:10px;text-align:center}
-.ea-back-top{position:fixed;right:27px;bottom:91px;z-index:990;width:42px;height:42px;border:0;border-radius:50%;background:#102b63;color:#fff;font-size:24px;line-height:1;box-shadow:0 4px 14px #102b6333;cursor:pointer;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s}
+.ea-back-top{position:fixed;right:27px;bottom:91px;z-index:990;width:42px;height:42px;border:0;border-radius:50%;background:#0866e8;color:#fff;font-size:24px;line-height:1;box-shadow:0 4px 14px #102b6333;cursor:pointer;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .2s,transform .2s,visibility .2s}
 .ea-back-top.visible{opacity:1;visibility:visible;transform:translateY(0)}
 .ea-chat button:focus-visible,.ea-chat a:focus-visible,.ea-chat input:focus-visible,.ea-back-top:focus-visible{outline:3px solid #ffbf00;outline-offset:3px}
 @media(max-width:650px){.ea-chat{right:13px;bottom:14px}.ea-chat-launch{padding:12px 15px}.ea-chat-panel{right:0;bottom:60px;width:calc(100vw - 26px);height:min(540px,calc(100dvh - 100px))}.ea-back-top{right:17px;bottom:77px;width:39px;height:39px}}
